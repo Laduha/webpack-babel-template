@@ -1,3 +1,1 @@
-import hi from 'lib';
-
-console.log(hi);
+// Write your code below
